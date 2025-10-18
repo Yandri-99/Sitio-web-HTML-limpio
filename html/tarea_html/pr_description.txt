@@ -1,0 +1,13 @@
+Tarea: sitio HTML sin CSS (5 páginas)
+
+Descripción del PR (pegar en la plataforma):
+
+- 5 archivos .html con estructura HTML5 válida
+- nav funcional en todas las páginas
+- Formulario con label, required y varios tipos de input
+- Tabla con caption, thead, tbody
+- Imágenes con alt + figure/figcaption
+- Enlaces relativos y absoluto con target="_blank"
+- PDF de evidencias adjuntado en la entrega del aula
+
+Enlace al PR: (pega aquí la URL)
