@@ -1,6 +1,6 @@
-Tarea: sitio HTML sin CSS (5 páginas)
+Tarea: sitio HTML sin CSS
 
-Descripción del PR (pegar en la plataforma):
+Descripción del PR:
 
 - 5 archivos .html con estructura HTML5 válida
 - nav funcional en todas las páginas
@@ -10,5 +10,4 @@ Descripción del PR (pegar en la plataforma):
 - Enlaces relativos y absoluto con target="_blank"
 - PDF de evidencias adjuntado en la entrega del aula
 
-Enlace al PR: (pega aquí la URL)
 Enlace al PR: https://github.com/Yandri-99/Sitio-web-HTML-limpio/blob/tarea_html/html/tarea_html/pr/pr_description.txt
